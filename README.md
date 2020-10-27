@@ -9,7 +9,7 @@ If you would like to submit your own entry, the [template
 file](Template.md) is a good start.  Corrections, updates, and other
 feedback from the persons involved is also welcome.
 
-You may also be interesting in [Cliki's Person
+You may also be interested in [CLiki's Person
 page](https://www.cliki.net/Person).
 
 # Submissions
